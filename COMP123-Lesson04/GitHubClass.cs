@@ -8,5 +8,7 @@ namespace COMP123_Lesson04
     public class GitHubClass
     {
         //GitHub Test
+
+        System.Console.Write();
     }
 }
