@@ -12,6 +12,7 @@ namespace COMP123_Lesson04
         public static GitHubClass()
         {
             Console.WriteLine("Hello GitHub!!!");
+            Console.WriteLine("+++++++++++++++++");
         }
     }
 }
