@@ -9,6 +9,9 @@ namespace COMP123_Lesson04
     {
         //GitHub Test
 
-        System.Console.Write();
+        public static GitHubClass()
+        {
+            Console.WriteLine("Hello GitHub!!!");
+        }
     }
 }
